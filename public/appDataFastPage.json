@@ -1,0 +1,218 @@
+[
+  {
+    "image": "https://logos-world.net/wp-content/uploads/2024/10/Bkash-Logo.jpg",
+    "title": "bKash",
+    "companyName": "bKash Limited",
+    "id": 1,
+    "description": "A leading mobile financial service in Bangladesh for payments, transfers, and more.",
+    "size": 50,
+    "reviews": 150000,
+    "ratingAvg": 4.5,
+    "downloads": "10M",
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "4 star", "count": 35000 },
+      { "name": "5 star", "count": 98000 }
+    ]
+  },
+  {
+    "image": "https://freelogopng.com/images/all_img/1679248787Nagad-Logo.png",
+    "title": "Nagad",
+    "companyName": "Nagad Ltd",
+    "id": 2,
+    "description": "Fast, secure mobile financial services with money transfers and bill payments.",
+    "size": 45,
+    "reviews": 90000,
+    "ratingAvg": 4.3,
+    "downloads": "7M",
+    "ratings": [
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 50000 }
+    ]
+  },
+  {
+    "image": "https://discover.daraz.com/images/Group_1083-1644460875.svg",
+    "title": "Daraz",
+    "companyName": "Daraz Bangladesh",
+    "id": 3,
+    "description": "Bangladesh's largest online shopping platform for fashion, electronics, and more.",
+    "size": 60,
+    "reviews": 120000,
+    "ratingAvg": 4.2,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 6000 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 55000 }
+    ]
+  },
+  {
+    "image": "https://logosandtypes.com/wp-content/uploads/2025/04/Pathao.png",
+    "title": "Pathao",
+    "companyName": "Pathao Ltd",
+    "id": 4,
+    "description": "Ride-sharing, food delivery, and logistics services across Bangladesh.",
+    "size": 55,
+    "reviews": 80000,
+    "ratingAvg": 4.4,
+    "downloads": "6M",
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 7000 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 47000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/dIcWxUhr1KjDnz0A1UEmsScmSomBZl-7gofZt9VQq76YCo7jnRJ6mqM-2_mqQ2U4ZfU",
+    "title": "Shwapno",
+    "companyName": "Shwapno Supermarket",
+    "id": 5,
+    "description": "Leading supermarket chain in Bangladesh offering online grocery shopping.",
+    "size": 40,
+    "reviews": 50000,
+    "ratingAvg": 4.1,
+    "downloads": "4M",
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 28000 }
+    ]
+  },
+  {
+    "image": "https://cdn.dribbble.com/userupload/23897217/file/original-a8c1012f7cd48970d34a7557f36af74a.png?resize=752x&vertical=center",
+    "title": "Foodpanda",
+    "companyName": "Foodpanda Bangladesh",
+    "id": 6,
+    "description": "Order food from your favorite restaurants and get fast delivery.",
+    "size": 50,
+    "reviews": 70000,
+    "ratingAvg": 4.3,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 2500 },
+      { "name": "2 star", "count": 1800 },
+      { "name": "3 star", "count": 9000 },
+      { "name": "4 star", "count": 22000 },
+      { "name": "5 star", "count": 36500 }
+    ]
+  },
+  {
+    "image": "https://help.mobiletopup.com/wp-content/uploads/407-4070245_vector-banglalink-logo-png-transparent-png.png",
+    "title": "Banglalink My",
+    "companyName": "Banglalink",
+    "id": 7,
+    "description": "Manage your Banglalink SIM, recharge, and access offers easily.",
+    "size": 35,
+    "reviews": 40000,
+    "ratingAvg": 4.0,
+    "downloads": "3M",
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 12000 },
+      { "name": "5 star", "count": 21500 }
+    ]
+  },
+  {
+    "image": "https://downloadr2.apkmirror.com/wp-content/uploads/2021/08/38/612ba50c79213.png",
+    "title": "My Robi",
+    "companyName": "Robi Axiata Ltd",
+    "id": 8,
+    "description": "Manage your Robi account, data, recharge, and more from your phone.",
+    "size": 37,
+    "reviews": 45000,
+    "ratingAvg": 4.1,
+    "downloads": "3.2M",
+    "ratings": [
+      { "name": "1 star", "count": 1800 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 5500 },
+      { "name": "4 star", "count": 13000 },
+      { "name": "5 star", "count": 24500 }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/premium-vector/logo-design-combining-shape-graduation-cap-with-technological-style_173603-2574.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "College Admission BD",
+    "companyName": "EduTech BD",
+    "id": 9,
+    "description": "Get updates and manage college admissions in Bangladesh easily.",
+    "size": 30,
+    "reviews": 20000,
+    "ratingAvg": 4.2,
+    "downloads": "1.5M",
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 11000 }
+    ]
+  },
+  {
+    "image": "https://th.bing.com/th/id/R.db163edf5ceaa38f4a4519da7d8b6d84?rik=0JTJ7mD7Li%2bOqw&riu=http%3a%2f%2fwww.lynk.wtf%2fwp-content%2fuploads%2f2017%2f10%2fhabitica.jpg&ehk=8bsF1oCkE56xhybg0u%2fSAefvuygR9RoKE%2bdhlAIyWbo%3d&risl=&pid=ImgRaw&r=0",
+    "title": "Habitica - Gamify Your Life",
+    "companyName": "HabitRPG Inc",
+    "id": 10,
+    "description": "Turn your daily tasks and goals into a fun RPG game! Stay productive while leveling up your character.",
+    "size": 42,
+    "reviews": 98000,
+    "ratingAvg": 4.6,
+    "downloads": "8M",
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 3500 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 26000 },
+      { "name": "5 star", "count": 58500 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/originals/df/66/7e/df667e1fe78128d9f1a017d23c19b8ff.png",
+    "title": "Tide - Sleep & Focus Sounds",
+    "companyName": "Moreless, Inc",
+    "id": 11,
+    "description": "Relax, sleep, and focus better with natural soundscapes and minimalist design.",
+    "size": 47,
+    "reviews": 123000,
+    "ratingAvg": 4.7,
+    "downloads": "12M",
+    "ratings": [
+      { "name": "1 star", "count": 1800 },
+      { "name": "2 star", "count": 2100 },
+      { "name": "3 star", "count": 7000 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 88000 }
+    ]
+  },
+  {
+    "image": "https://imghub.insilicogen.com/media/photos/lbj_notion_0.png",
+    "title": "Notion - Notes & Projects",
+    "companyName": "Notion Labs, Inc",
+    "id": 12,
+    "description": "All-in-one workspace for notes, tasks, databases, and team collaboration.",
+    "size": 62,
+    "reviews": 310000,
+    "ratingAvg": 4.8,
+    "downloads": "20M",
+    "ratings": [
+      { "name": "1 star", "count": 4500 },
+      { "name": "2 star", "count": 3200 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "4 star", "count": 55000 },
+      { "name": "5 star", "count": 235000 }
+    ]
+  }
+]
