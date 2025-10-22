@@ -20,7 +20,7 @@ const AppsTaitel = ({ data }) => {
           </p>
         </div>
         <div className="flex justify-between py-5 items-center">
-          <h2 className="text-2xl font-semibold">
+          <h2 className="">
             {" "}
             ({serachedProducts.length}) Apps Found
           </h2>
