@@ -1,5 +1,3 @@
-
-
 import React, { Suspense, useState } from "react";
 import AppsDetails from "../AppsDetails/AppsDetails";
 import NoappIng from "../../../src/assets/App-Error.png";
@@ -37,7 +35,9 @@ const AppsTaitel = ({ data }) => {
         </div>
 
         <div>
-          <Suspense fallback={<span className="loading loading-dots loading-xl"></span>}>
+          <Suspense
+            fallback={<span className="loading loading-dots loading-xl"></span>}
+          >
             {serachedProducts.length > 0 ? (
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 {serachedProducts.map((fainalData) => (
